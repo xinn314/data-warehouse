@@ -2,12 +2,11 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
-import datetime  # 导入 datetime 模块
+import datetime
+import os  # 导入 os 模块
 
 def is_chinese(text, ratio=0.6):
-    """
-    判断字符串是否主要由中文字符组成。
-    """
+    # ... (is_chinese 函数的代码，保持不变) ...
     chinese_count = 0
     total_count = 0
 
@@ -22,6 +21,7 @@ def is_chinese(text, ratio=0.6):
     return (chinese_count / total_count) >= ratio
 
 def get_douban_top250():
+    # ... (get_douban_top250 函数的代码，保持不变) ...
     all_movies = []
     for start in range(0, 250, 25):
         url = f'https://movie.douban.com/top250?start={start}&filter='
@@ -84,18 +84,20 @@ def get_douban_top250():
 if __name__ == '__main__':
     top250_data = get_douban_top250()
     if top250_data:
-        # 获取当前日期时间
         now = datetime.datetime.now()
-        update_time = now.strftime("%Y-%m-%d %H:%M:%S")  # 格式化为字符串
-        # 在数据中添加更新时间
+        update_time = now.strftime("%Y-%m-%d %H:%M:%S")
         data_with_time = {
             'update_time': update_time,
             'movies': top250_data
         }
 
-        # 生成带日期的文件名
+        # --- 文件路径修改 ---
         date_str = now.strftime("%Y%m%d")
-        filename = f'douban_top250_{date_str}.json'
+        # 使用 os.path.join 构建路径，更安全、跨平台
+        filename = os.path.join("data", "douban_top250", f"douban_top250_{date_str}.json")
+
+        # 确保目录存在
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
 
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(data_with_time, f, ensure_ascii=False, indent=2)
