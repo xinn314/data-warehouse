@@ -94,7 +94,7 @@ if __name__ == '__main__':
         # --- 文件路径修改 ---
         date_str = now.strftime("%Y%m%d")
         # 使用 os.path.join 构建路径，更安全、跨平台
-        filename = os.path.join("data", "douban_top250", f"douban_top250_{date_str}.json")
+        filename = os.path.join("data", "douban_top250", f"{date_str}.json")
 
         # 确保目录存在
         os.makedirs(os.path.dirname(filename), exist_ok=True)
