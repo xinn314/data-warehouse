@@ -44,9 +44,9 @@ def get_douban_top250():
                 foreign_title = ''
 
                 if len(titles) > 1:
-                    temp_foreign = titles[1].replace('\xa0', '').replace(' ', '')
+                    temp_foreign = titles[1].replace('\xa0', '').replace(' ', '').replace('/', '')
                     if is_chinese(temp_foreign) and len(titles) > 2:
-                        foreign_title = titles[2].replace('\xa0', '').replace(' ', '')
+                        foreign_title = titles[2].replace('\xa0', '').replace(' ', '').replace('/', '')
                     else:
                         foreign_title = temp_foreign
 
