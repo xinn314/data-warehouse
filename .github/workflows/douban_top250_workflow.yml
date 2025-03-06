@@ -24,13 +24,13 @@ jobs:
         pip install requests beautifulsoup4 zhconv  # 安装依赖
 
     - name: Run scraper
-      run: python douban_scraper.py  # 运行你的 Python 脚本
+      run: python script/douban_scraper.py  # 运行你的 Python 脚本
 
     - name: Commit and push changes
       run: |
         git config --global user.name "xinn314"  # 替换为你的 GitHub 用户名
         git config --global user.email "xinn314@gmail.com"  # 替换为你的 GitHub 邮箱
-        git add douban_top250_*.json  # 添加所有以 douban_top250_ 开头的 .json 文件
+        git add data/douban_top250/*.json  # 添加所有以 douban_top250_ 开头的 .json 文件
         timestamp=$(date +"%Y-%m-%d %H:%M:%S")
         git commit -m "Update Douban Top250 data ($timestamp)" || exit 0  # 提交更改, 如果没有更改则跳过
         git push
