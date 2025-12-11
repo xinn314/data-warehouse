@@ -1,0 +1,1755 @@
+{
+  "update_time": "2025-12-11 02:08:24",
+  "movies": [
+    {
+      "ranking": 1,
+      "chinese_title": "肖申克的救赎",
+      "foreign_title": "The Shawshank Redemption",
+      "rating": 9.7,
+      "year": 1994
+    },
+    {
+      "ranking": 2,
+      "chinese_title": "霸王别姬",
+      "foreign_title": " Farewell My Concubine",
+      "rating": 9.6,
+      "year": 1993
+    },
+    {
+      "ranking": 3,
+      "chinese_title": "泰坦尼克号",
+      "foreign_title": "Titanic",
+      "rating": 9.5,
+      "year": 1997
+    },
+    {
+      "ranking": 4,
+      "chinese_title": "阿甘正传",
+      "foreign_title": "Forrest Gump",
+      "rating": 9.5,
+      "year": 1994
+    },
+    {
+      "ranking": 5,
+      "chinese_title": "千与千寻",
+      "foreign_title": "神隐少女(台) ",
+      "rating": 9.4,
+      "year": 2001
+    },
+    {
+      "ranking": 6,
+      "chinese_title": "美丽人生",
+      "foreign_title": "La vita è bella",
+      "rating": 9.5,
+      "year": 1997
+    },
+    {
+      "ranking": 7,
+      "chinese_title": "星际穿越",
+      "foreign_title": "Interstellar",
+      "rating": 9.4,
+      "year": 2014
+    },
+    {
+      "ranking": 8,
+      "chinese_title": "这个杀手不太冷",
+      "foreign_title": "Léon",
+      "rating": 9.4,
+      "year": 1994
+    },
+    {
+      "ranking": 9,
+      "chinese_title": "盗梦空间",
+      "foreign_title": "Inception",
+      "rating": 9.4,
+      "year": 2010
+    },
+    {
+      "ranking": 10,
+      "chinese_title": "楚门的世界",
+      "foreign_title": "The Truman Show",
+      "rating": 9.4,
+      "year": 1998
+    },
+    {
+      "ranking": 11,
+      "chinese_title": "辛德勒的名单",
+      "foreign_title": "Schindler's List",
+      "rating": 9.5,
+      "year": 1993
+    },
+    {
+      "ranking": 12,
+      "chinese_title": "忠犬八公的故事",
+      "foreign_title": "Hachi: A Dog's Tale",
+      "rating": 9.4,
+      "year": 2009
+    },
+    {
+      "ranking": 13,
+      "chinese_title": "海上钢琴师",
+      "foreign_title": "La leggenda del pianista sull'oceano",
+      "rating": 9.3,
+      "year": 1998
+    },
+    {
+      "ranking": 14,
+      "chinese_title": "疯狂动物城",
+      "foreign_title": "Zootopia",
+      "rating": 9.3,
+      "year": 2016
+    },
+    {
+      "ranking": 15,
+      "chinese_title": "三傻大闹宝莱坞",
+      "foreign_title": "3 Idiots",
+      "rating": 9.2,
+      "year": 2009
+    },
+    {
+      "ranking": 16,
+      "chinese_title": "机器人总动员",
+      "foreign_title": "WALL·E",
+      "rating": 9.3,
+      "year": 2008
+    },
+    {
+      "ranking": 17,
+      "chinese_title": "放牛班的春天",
+      "foreign_title": "Les choristes",
+      "rating": 9.3,
+      "year": 2004
+    },
+    {
+      "ranking": 18,
+      "chinese_title": "无间道",
+      "foreign_title": "Infernal Affairs ",
+      "rating": 9.3,
+      "year": 2002
+    },
+    {
+      "ranking": 19,
+      "chinese_title": "控方证人",
+      "foreign_title": "Witness for the Prosecution",
+      "rating": 9.6,
+      "year": 1957
+    },
+    {
+      "ranking": 20,
+      "chinese_title": "大话西游之大圣娶亲",
+      "foreign_title": "西游记完结篇仙履奇缘 ",
+      "rating": 9.2,
+      "year": 1995
+    },
+    {
+      "ranking": 21,
+      "chinese_title": "熔炉",
+      "foreign_title": "도가니",
+      "rating": 9.3,
+      "year": 2011
+    },
+    {
+      "ranking": 22,
+      "chinese_title": "寻梦环游记",
+      "foreign_title": "Coco",
+      "rating": 9.1,
+      "year": 2017
+    },
+    {
+      "ranking": 23,
+      "chinese_title": "触不可及",
+      "foreign_title": "Intouchables",
+      "rating": 9.3,
+      "year": 2011
+    },
+    {
+      "ranking": 24,
+      "chinese_title": "教父",
+      "foreign_title": "The Godfather",
+      "rating": 9.3,
+      "year": 1972
+    },
+    {
+      "ranking": 25,
+      "chinese_title": "当幸福来敲门",
+      "foreign_title": "The Pursuit of Happyness",
+      "rating": 9.1,
+      "year": 2006
+    },
+    {
+      "ranking": 26,
+      "chinese_title": "末代皇帝",
+      "foreign_title": "The Last Emperor",
+      "rating": 9.3,
+      "year": 1987
+    },
+    {
+      "ranking": 27,
+      "chinese_title": "哈利·波特与魔法石",
+      "foreign_title": "Harry Potter and the Sorcerer's Stone",
+      "rating": 9.2,
+      "year": 2001
+    },
+    {
+      "ranking": 28,
+      "chinese_title": "龙猫",
+      "foreign_title": "となりのトトロ",
+      "rating": 9.2,
+      "year": 1988
+    },
+    {
+      "ranking": 29,
+      "chinese_title": "活着",
+      "foreign_title": " Lifetimes",
+      "rating": 9.3,
+      "year": 1994
+    },
+    {
+      "ranking": 30,
+      "chinese_title": "怦然心动",
+      "foreign_title": "Flipped",
+      "rating": 9.1,
+      "year": 2010
+    },
+    {
+      "ranking": 31,
+      "chinese_title": "蝙蝠侠：黑暗骑士",
+      "foreign_title": "The Dark Knight",
+      "rating": 9.2,
+      "year": 2008
+    },
+    {
+      "ranking": 32,
+      "chinese_title": "指环王3：王者无敌",
+      "foreign_title": "The Lord of the Rings: The Return of the King",
+      "rating": 9.3,
+      "year": 2003
+    },
+    {
+      "ranking": 33,
+      "chinese_title": "我不是药神",
+      "foreign_title": " 印度药神",
+      "rating": 9.0,
+      "year": 2018
+    },
+    {
+      "ranking": 34,
+      "chinese_title": "乱世佳人",
+      "foreign_title": "Gone with the Wind",
+      "rating": 9.3,
+      "year": 1939
+    },
+    {
+      "ranking": 35,
+      "chinese_title": "飞屋环游记",
+      "foreign_title": "Up",
+      "rating": 9.1,
+      "year": 2009
+    },
+    {
+      "ranking": 36,
+      "chinese_title": "让子弹飞",
+      "foreign_title": " 火烧云",
+      "rating": 9.0,
+      "year": 2010
+    },
+    {
+      "ranking": 37,
+      "chinese_title": "哈尔的移动城堡",
+      "foreign_title": "ハウルの動く城",
+      "rating": 9.1,
+      "year": 2004
+    },
+    {
+      "ranking": 38,
+      "chinese_title": "十二怒汉",
+      "foreign_title": "12 Angry Men",
+      "rating": 9.4,
+      "year": 1957
+    },
+    {
+      "ranking": 39,
+      "chinese_title": "海蒂和爷爷",
+      "foreign_title": "Heidi",
+      "rating": 9.3,
+      "year": 2015
+    },
+    {
+      "ranking": 40,
+      "chinese_title": "素媛",
+      "foreign_title": "소원",
+      "rating": 9.3,
+      "year": 2013
+    },
+    {
+      "ranking": 41,
+      "chinese_title": "猫鼠游戏",
+      "foreign_title": "Catch Me If You Can",
+      "rating": 9.1,
+      "year": 2002
+    },
+    {
+      "ranking": 42,
+      "chinese_title": "天空之城",
+      "foreign_title": "天空の城ラピュタ",
+      "rating": 9.2,
+      "year": 1986
+    },
+    {
+      "ranking": 43,
+      "chinese_title": "鬼子来了",
+      "foreign_title": "Devils on the Doorstep",
+      "rating": 9.3,
+      "year": 2000
+    },
+    {
+      "ranking": 44,
+      "chinese_title": "摔跤吧！爸爸",
+      "foreign_title": "Dangal",
+      "rating": 9.0,
+      "year": 2016
+    },
+    {
+      "ranking": 45,
+      "chinese_title": "少年派的奇幻漂流",
+      "foreign_title": "Life of Pi",
+      "rating": 9.1,
+      "year": 2012
+    },
+    {
+      "ranking": 46,
+      "chinese_title": "钢琴家",
+      "foreign_title": "The Pianist",
+      "rating": 9.3,
+      "year": 2002
+    },
+    {
+      "ranking": 47,
+      "chinese_title": "指环王2：双塔奇兵",
+      "foreign_title": "The Lord of the Rings: The Two Towers",
+      "rating": 9.2,
+      "year": 2002
+    },
+    {
+      "ranking": 48,
+      "chinese_title": "死亡诗社",
+      "foreign_title": "Dead Poets Society",
+      "rating": 9.2,
+      "year": 1989
+    },
+    {
+      "ranking": 49,
+      "chinese_title": "大话西游之月光宝盒",
+      "foreign_title": "西游记101回月光宝盒 ",
+      "rating": 9.0,
+      "year": 1995
+    },
+    {
+      "ranking": 50,
+      "chinese_title": "何以为家",
+      "foreign_title": "كفرناحوم",
+      "rating": 9.1,
+      "year": 2018
+    },
+    {
+      "ranking": 51,
+      "chinese_title": "绿皮书",
+      "foreign_title": "Green Book",
+      "rating": 8.9,
+      "year": 2018
+    },
+    {
+      "ranking": 52,
+      "chinese_title": "闻香识女人",
+      "foreign_title": "Scent of a Woman",
+      "rating": 9.1,
+      "year": 1992
+    },
+    {
+      "ranking": 53,
+      "chinese_title": "大闹天宫",
+      "foreign_title": " The Monkey King",
+      "rating": 9.4,
+      "year": 1961
+    },
+    {
+      "ranking": 54,
+      "chinese_title": "黑客帝国",
+      "foreign_title": "The Matrix",
+      "rating": 9.1,
+      "year": 1999
+    },
+    {
+      "ranking": 55,
+      "chinese_title": "指环王1：护戒使者",
+      "foreign_title": "The Lord of the Rings: The Fellowship of the Ring",
+      "rating": 9.1,
+      "year": 2001
+    },
+    {
+      "ranking": 56,
+      "chinese_title": "罗马假日",
+      "foreign_title": "Roman Holiday",
+      "rating": 9.1,
+      "year": 1953
+    },
+    {
+      "ranking": 57,
+      "chinese_title": "教父2",
+      "foreign_title": "The Godfather: Part II",
+      "rating": 9.3,
+      "year": 1974
+    },
+    {
+      "ranking": 58,
+      "chinese_title": "狮子王",
+      "foreign_title": "The Lion King",
+      "rating": 9.1,
+      "year": 1994
+    },
+    {
+      "ranking": 59,
+      "chinese_title": "天堂电影院",
+      "foreign_title": "Nuovo Cinema Paradiso",
+      "rating": 9.2,
+      "year": 1988
+    },
+    {
+      "ranking": 60,
+      "chinese_title": "饮食男女",
+      "foreign_title": "Eat Drink Man Woman",
+      "rating": 9.2,
+      "year": 1994
+    },
+    {
+      "ranking": 61,
+      "chinese_title": "辩护人",
+      "foreign_title": "변호인",
+      "rating": 9.2,
+      "year": 2013
+    },
+    {
+      "ranking": 62,
+      "chinese_title": "本杰明·巴顿奇事",
+      "foreign_title": "The Curious Case of Benjamin Button",
+      "rating": 9.0,
+      "year": 2008
+    },
+    {
+      "ranking": 63,
+      "chinese_title": "搏击俱乐部",
+      "foreign_title": "Fight Club",
+      "rating": 9.0,
+      "year": 1999
+    },
+    {
+      "ranking": 64,
+      "chinese_title": "美丽心灵",
+      "foreign_title": "A Beautiful Mind",
+      "rating": 9.1,
+      "year": 2001
+    },
+    {
+      "ranking": 65,
+      "chinese_title": "穿条纹睡衣的男孩",
+      "foreign_title": "The Boy in the Striped Pajamas",
+      "rating": 9.2,
+      "year": 2008
+    },
+    {
+      "ranking": 66,
+      "chinese_title": "情书",
+      "foreign_title": "Love Letter",
+      "rating": 8.9,
+      "year": 1995
+    },
+    {
+      "ranking": 67,
+      "chinese_title": "哈利·波特与死亡圣器(下)",
+      "foreign_title": "Harry Potter and the Deathly Hallows: Part 2",
+      "rating": 9.0,
+      "year": 2011
+    },
+    {
+      "ranking": 68,
+      "chinese_title": "两杆大烟枪",
+      "foreign_title": "Lock, Stock and Two Smoking Barrels",
+      "rating": 9.1,
+      "year": 1998
+    },
+    {
+      "ranking": 69,
+      "chinese_title": "窃听风暴",
+      "foreign_title": "Das Leben der Anderen",
+      "rating": 9.2,
+      "year": 2006
+    },
+    {
+      "ranking": 70,
+      "chinese_title": "音乐之声",
+      "foreign_title": "The Sound of Music",
+      "rating": 9.1,
+      "year": 1965
+    },
+    {
+      "ranking": 71,
+      "chinese_title": "功夫",
+      "foreign_title": "功夫3D ",
+      "rating": 8.9,
+      "year": 2004
+    },
+    {
+      "ranking": 72,
+      "chinese_title": "西西里的美丽传说",
+      "foreign_title": "Malèna",
+      "rating": 8.9,
+      "year": 2000
+    },
+    {
+      "ranking": 73,
+      "chinese_title": "哈利·波特与阿兹卡班的囚徒",
+      "foreign_title": "Harry Potter and the Prisoner of Azkaban",
+      "rating": 9.0,
+      "year": 2004
+    },
+    {
+      "ranking": 74,
+      "chinese_title": "阿凡达",
+      "foreign_title": "Avatar",
+      "rating": 8.8,
+      "year": 2009
+    },
+    {
+      "ranking": 75,
+      "chinese_title": "看不见的客人",
+      "foreign_title": "Contratiempo",
+      "rating": 8.8,
+      "year": 2016
+    },
+    {
+      "ranking": 76,
+      "chinese_title": "拯救大兵瑞恩",
+      "foreign_title": "Saving Private Ryan",
+      "rating": 9.1,
+      "year": 1998
+    },
+    {
+      "ranking": 77,
+      "chinese_title": "沉默的羔羊",
+      "foreign_title": "The Silence of the Lambs",
+      "rating": 8.9,
+      "year": 1991
+    },
+    {
+      "ranking": 78,
+      "chinese_title": "小鞋子",
+      "foreign_title": "بچه های آسمان",
+      "rating": 9.2,
+      "year": 1997
+    },
+    {
+      "ranking": 79,
+      "chinese_title": "布达佩斯大饭店",
+      "foreign_title": "The Grand Budapest Hotel",
+      "rating": 8.9,
+      "year": 2014
+    },
+    {
+      "ranking": 80,
+      "chinese_title": "飞越疯人院",
+      "foreign_title": "One Flew Over the Cuckoo's Nest",
+      "rating": 9.1,
+      "year": 1975
+    },
+    {
+      "ranking": 81,
+      "chinese_title": "蝴蝶效应",
+      "foreign_title": "The Butterfly Effect",
+      "rating": 8.9,
+      "year": 2004
+    },
+    {
+      "ranking": 82,
+      "chinese_title": "禁闭岛",
+      "foreign_title": "Shutter Island",
+      "rating": 8.9,
+      "year": 2010
+    },
+    {
+      "ranking": 83,
+      "chinese_title": "心灵捕手",
+      "foreign_title": "Good Will Hunting",
+      "rating": 9.0,
+      "year": 1997
+    },
+    {
+      "ranking": 84,
+      "chinese_title": "致命魔术",
+      "foreign_title": "The Prestige",
+      "rating": 8.9,
+      "year": 2006
+    },
+    {
+      "ranking": 85,
+      "chinese_title": "低俗小说",
+      "foreign_title": "Pulp Fiction",
+      "rating": 8.9,
+      "year": 1994
+    },
+    {
+      "ranking": 86,
+      "chinese_title": "还有明天",
+      "foreign_title": "C'è ancora domani",
+      "rating": 9.3,
+      "year": 2023
+    },
+    {
+      "ranking": 87,
+      "chinese_title": "超脱",
+      "foreign_title": "Detachment",
+      "rating": 9.0,
+      "year": 2011
+    },
+    {
+      "ranking": 88,
+      "chinese_title": "哈利·波特与密室",
+      "foreign_title": "Harry Potter and the Chamber of Secrets",
+      "rating": 8.9,
+      "year": 2002
+    },
+    {
+      "ranking": 89,
+      "chinese_title": "喜剧之王",
+      "foreign_title": "King of Comedy",
+      "rating": 8.8,
+      "year": 1999
+    },
+    {
+      "ranking": 90,
+      "chinese_title": "一一",
+      "foreign_title": "Yi yi ",
+      "rating": 9.1,
+      "year": 2000
+    },
+    {
+      "ranking": 91,
+      "chinese_title": "摩登时代",
+      "foreign_title": "Modern Times",
+      "rating": 9.3,
+      "year": 1936
+    },
+    {
+      "ranking": 92,
+      "chinese_title": "杀人回忆",
+      "foreign_title": "살인의 추억",
+      "rating": 8.9,
+      "year": 2003
+    },
+    {
+      "ranking": 93,
+      "chinese_title": "致命ID",
+      "foreign_title": "Identity",
+      "rating": 8.9,
+      "year": 2003
+    },
+    {
+      "ranking": 94,
+      "chinese_title": "春光乍泄",
+      "foreign_title": "一起快乐 ",
+      "rating": 9.0,
+      "year": 1997
+    },
+    {
+      "ranking": 95,
+      "chinese_title": "加勒比海盗",
+      "foreign_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "rating": 8.8,
+      "year": 2003
+    },
+    {
+      "ranking": 96,
+      "chinese_title": "海豚湾",
+      "foreign_title": "The Cove",
+      "rating": 9.3,
+      "year": 2009
+    },
+    {
+      "ranking": 97,
+      "chinese_title": "美国往事",
+      "foreign_title": "Once Upon a Time in America",
+      "rating": 9.1,
+      "year": 1984
+    },
+    {
+      "ranking": 98,
+      "chinese_title": "红辣椒",
+      "foreign_title": "パプリカ",
+      "rating": 9.0,
+      "year": 2006
+    },
+    {
+      "ranking": 99,
+      "chinese_title": "七宗罪",
+      "foreign_title": "Se7en",
+      "rating": 8.8,
+      "year": 1995
+    },
+    {
+      "ranking": 100,
+      "chinese_title": "唐伯虎点秋香",
+      "foreign_title": "Flirting Scholar",
+      "rating": 8.8,
+      "year": 1993
+    },
+    {
+      "ranking": 101,
+      "chinese_title": "狩猎",
+      "foreign_title": "Jagten",
+      "rating": 9.1,
+      "year": 2012
+    },
+    {
+      "ranking": 102,
+      "chinese_title": "幽灵公主",
+      "foreign_title": "もののけ姫",
+      "rating": 8.9,
+      "year": 1997
+    },
+    {
+      "ranking": 103,
+      "chinese_title": "甜蜜蜜",
+      "foreign_title": "Comrades: Almost a Love Story",
+      "rating": 8.9,
+      "year": 1996
+    },
+    {
+      "ranking": 104,
+      "chinese_title": "寄生虫",
+      "foreign_title": "기생충",
+      "rating": 8.8,
+      "year": 2019
+    },
+    {
+      "ranking": 105,
+      "chinese_title": "蝙蝠侠：黑暗骑士崛起",
+      "foreign_title": "The Dark Knight Rises",
+      "rating": 8.9,
+      "year": 2012
+    },
+    {
+      "ranking": 106,
+      "chinese_title": "天书奇谭",
+      "foreign_title": " The Legend of Sealed Book",
+      "rating": 9.2,
+      "year": 1983
+    },
+    {
+      "ranking": 107,
+      "chinese_title": "7号房的礼物",
+      "foreign_title": "7번방의 선물",
+      "rating": 8.9,
+      "year": 2013
+    },
+    {
+      "ranking": 108,
+      "chinese_title": "超能陆战队",
+      "foreign_title": "Big Hero 6",
+      "rating": 8.8,
+      "year": 2014
+    },
+    {
+      "ranking": 109,
+      "chinese_title": "爱在黎明破晓前",
+      "foreign_title": "Before Sunrise",
+      "rating": 8.8,
+      "year": 1995
+    },
+    {
+      "ranking": 110,
+      "chinese_title": "第六感",
+      "foreign_title": "The Sixth Sense",
+      "rating": 8.9,
+      "year": 1999
+    },
+    {
+      "ranking": 111,
+      "chinese_title": "爱在日落黄昏时",
+      "foreign_title": "Before Sunset",
+      "rating": 8.9,
+      "year": 2004
+    },
+    {
+      "ranking": 112,
+      "chinese_title": "被嫌弃的松子的一生",
+      "foreign_title": "花样奇缘(港) ",
+      "rating": 8.8,
+      "year": 2006
+    },
+    {
+      "ranking": 113,
+      "chinese_title": "茶馆",
+      "foreign_title": "The Teahouse",
+      "rating": 9.6,
+      "year": 1982
+    },
+    {
+      "ranking": 114,
+      "chinese_title": "重庆森林",
+      "foreign_title": "Chungking Express",
+      "rating": 8.8,
+      "year": 1994
+    },
+    {
+      "ranking": 115,
+      "chinese_title": "未麻的部屋",
+      "foreign_title": "Perfect Blue",
+      "rating": 9.1,
+      "year": 1997
+    },
+    {
+      "ranking": 116,
+      "chinese_title": "哈利·波特与火焰杯",
+      "foreign_title": "Harry Potter and the Goblet of Fire",
+      "rating": 8.8,
+      "year": 2005
+    },
+    {
+      "ranking": 117,
+      "chinese_title": "头脑特工队",
+      "foreign_title": "Inside Out",
+      "rating": 8.8,
+      "year": 2015
+    },
+    {
+      "ranking": 118,
+      "chinese_title": "入殓师",
+      "foreign_title": "おくりびと",
+      "rating": 8.9,
+      "year": 2008
+    },
+    {
+      "ranking": 119,
+      "chinese_title": "借东西的小人阿莉埃蒂",
+      "foreign_title": "借りぐらしのアリエッティ",
+      "rating": 8.9,
+      "year": 2010
+    },
+    {
+      "ranking": 120,
+      "chinese_title": "菊次郎的夏天",
+      "foreign_title": "菊次郎之夏 ",
+      "rating": 8.9,
+      "year": 1999
+    },
+    {
+      "ranking": 121,
+      "chinese_title": "剪刀手爱德华",
+      "foreign_title": "Edward Scissorhands",
+      "rating": 8.7,
+      "year": 1990
+    },
+    {
+      "ranking": 122,
+      "chinese_title": "断背山",
+      "foreign_title": "Brokeback Mountain",
+      "rating": 8.8,
+      "year": 2005
+    },
+    {
+      "ranking": 123,
+      "chinese_title": "勇敢的心",
+      "foreign_title": "Braveheart",
+      "rating": 8.9,
+      "year": 1995
+    },
+    {
+      "ranking": 124,
+      "chinese_title": "时空恋旅人",
+      "foreign_title": "About Time",
+      "rating": 8.8,
+      "year": 2013
+    },
+    {
+      "ranking": 125,
+      "chinese_title": "消失的爱人",
+      "foreign_title": "Gone Girl",
+      "rating": 8.7,
+      "year": 2014
+    },
+    {
+      "ranking": 126,
+      "chinese_title": "倩女幽魂",
+      "foreign_title": "倩女幽魂(87版) ",
+      "rating": 8.8,
+      "year": 1987
+    },
+    {
+      "ranking": 127,
+      "chinese_title": "无人知晓",
+      "foreign_title": "誰も知らない",
+      "rating": 9.1,
+      "year": 2004
+    },
+    {
+      "ranking": 128,
+      "chinese_title": "驯龙高手",
+      "foreign_title": "How to Train Your Dragon",
+      "rating": 8.8,
+      "year": 2010
+    },
+    {
+      "ranking": 129,
+      "chinese_title": "花样年华",
+      "foreign_title": "花样年华导演特别版 ",
+      "rating": 8.8,
+      "year": 2000
+    },
+    {
+      "ranking": 130,
+      "chinese_title": "傲慢与偏见",
+      "foreign_title": "Pride & Prejudice",
+      "rating": 8.7,
+      "year": 2005
+    },
+    {
+      "ranking": 131,
+      "chinese_title": "新世界",
+      "foreign_title": "신세계",
+      "rating": 8.9,
+      "year": 2013
+    },
+    {
+      "ranking": 132,
+      "chinese_title": "完美的世界",
+      "foreign_title": "A Perfect World",
+      "rating": 9.1,
+      "year": 1993
+    },
+    {
+      "ranking": 133,
+      "chinese_title": "阳光灿烂的日子",
+      "foreign_title": "In the Heat of the Sun",
+      "rating": 8.8,
+      "year": 1994
+    },
+    {
+      "ranking": 134,
+      "chinese_title": "一个叫欧维的男人决定去死",
+      "foreign_title": "En man som heter Ove",
+      "rating": 8.9,
+      "year": 2015
+    },
+    {
+      "ranking": 135,
+      "chinese_title": "玩具总动员3",
+      "foreign_title": "Toy Story 3",
+      "rating": 8.9,
+      "year": 2010
+    },
+    {
+      "ranking": 136,
+      "chinese_title": "小森林 夏秋篇",
+      "foreign_title": "リトル・フォレスト 夏・秋",
+      "rating": 9.0,
+      "year": 2014
+    },
+    {
+      "ranking": 137,
+      "chinese_title": "天使爱美丽",
+      "foreign_title": "Le Fabuleux destin d'Amélie Poulain",
+      "rating": 8.7,
+      "year": 2001
+    },
+    {
+      "ranking": 138,
+      "chinese_title": "怪兽电力公司",
+      "foreign_title": "Monsters, Inc.",
+      "rating": 8.8,
+      "year": 2001
+    },
+    {
+      "ranking": 139,
+      "chinese_title": "色，戒",
+      "foreign_title": "色|戒 ",
+      "rating": 8.7,
+      "year": 2007
+    },
+    {
+      "ranking": 140,
+      "chinese_title": "教父3",
+      "foreign_title": "The Godfather: Part III",
+      "rating": 9.0,
+      "year": 1990
+    },
+    {
+      "ranking": 141,
+      "chinese_title": "侧耳倾听",
+      "foreign_title": "耳をすませば",
+      "rating": 8.9,
+      "year": 1995
+    },
+    {
+      "ranking": 142,
+      "chinese_title": "请以你的名字呼唤我",
+      "foreign_title": "Call Me by Your Name",
+      "rating": 8.8,
+      "year": 2017
+    },
+    {
+      "ranking": 143,
+      "chinese_title": "哪吒闹海",
+      "foreign_title": "Prince Nezha's Triumph Against Dragon King ",
+      "rating": 9.2,
+      "year": 1979
+    },
+    {
+      "ranking": 144,
+      "chinese_title": "幸福终点站",
+      "foreign_title": "The Terminal",
+      "rating": 8.8,
+      "year": 2004
+    },
+    {
+      "ranking": 145,
+      "chinese_title": "九品芝麻官",
+      "foreign_title": " Hail the Judge",
+      "rating": 8.8,
+      "year": 1994
+    },
+    {
+      "ranking": 146,
+      "chinese_title": "被解救的姜戈",
+      "foreign_title": "Django Unchained",
+      "rating": 8.8,
+      "year": 2012
+    },
+    {
+      "ranking": 147,
+      "chinese_title": "釜山行",
+      "foreign_title": "부산행",
+      "rating": 8.6,
+      "year": 2016
+    },
+    {
+      "ranking": 148,
+      "chinese_title": "小森林 冬春篇",
+      "foreign_title": "リトル・フォレスト 冬・春",
+      "rating": 9.0,
+      "year": 2015
+    },
+    {
+      "ranking": 149,
+      "chinese_title": "神偷奶爸",
+      "foreign_title": "Despicable Me",
+      "rating": 8.7,
+      "year": 2010
+    },
+    {
+      "ranking": 150,
+      "chinese_title": "喜宴",
+      "foreign_title": "The Wedding Banquet",
+      "rating": 9.0,
+      "year": 1993
+    },
+    {
+      "ranking": 151,
+      "chinese_title": "萤火之森",
+      "foreign_title": "萤火之社 ",
+      "rating": 8.8,
+      "year": 2011
+    },
+    {
+      "ranking": 152,
+      "chinese_title": "告白",
+      "foreign_title": " 母亲",
+      "rating": 8.8,
+      "year": 2010
+    },
+    {
+      "ranking": 153,
+      "chinese_title": "玛丽和麦克斯",
+      "foreign_title": "Mary and Max",
+      "rating": 9.0,
+      "year": 2009
+    },
+    {
+      "ranking": 154,
+      "chinese_title": "头号玩家",
+      "foreign_title": "Ready Player One",
+      "rating": 8.6,
+      "year": 2018
+    },
+    {
+      "ranking": 155,
+      "chinese_title": "七武士",
+      "foreign_title": "七侠四义(港) ",
+      "rating": 9.3,
+      "year": 1954
+    },
+    {
+      "ranking": 156,
+      "chinese_title": "模仿游戏",
+      "foreign_title": "The Imitation Game",
+      "rating": 8.8,
+      "year": 2014
+    },
+    {
+      "ranking": 157,
+      "chinese_title": "大鱼",
+      "foreign_title": "Big Fish",
+      "rating": 8.8,
+      "year": 2003
+    },
+    {
+      "ranking": 158,
+      "chinese_title": "惊魂记",
+      "foreign_title": "Psycho",
+      "rating": 9.0,
+      "year": 1960
+    },
+    {
+      "ranking": 159,
+      "chinese_title": "射雕英雄传之东成西就",
+      "foreign_title": "东成西就 ",
+      "rating": 8.7,
+      "year": 1993
+    },
+    {
+      "ranking": 160,
+      "chinese_title": "血战钢锯岭",
+      "foreign_title": "Hacksaw Ridge",
+      "rating": 8.7,
+      "year": 2016
+    },
+    {
+      "ranking": 161,
+      "chinese_title": "你的名字。",
+      "foreign_title": "君の名は。",
+      "rating": 8.5,
+      "year": 2016
+    },
+    {
+      "ranking": 162,
+      "chinese_title": "我是山姆",
+      "foreign_title": "I Am Sam",
+      "rating": 9.0,
+      "year": 2001
+    },
+    {
+      "ranking": 163,
+      "chinese_title": "心灵奇旅",
+      "foreign_title": "Soul",
+      "rating": 8.7,
+      "year": 2020
+    },
+    {
+      "ranking": 164,
+      "chinese_title": "背靠背，脸对脸",
+      "foreign_title": " Back to Back, Face to Face",
+      "rating": 9.5,
+      "year": 1994
+    },
+    {
+      "ranking": 165,
+      "chinese_title": "阳光姐妹淘",
+      "foreign_title": "써니",
+      "rating": 8.8,
+      "year": 2011
+    },
+    {
+      "ranking": 166,
+      "chinese_title": "恐怖直播",
+      "foreign_title": "더 테러 라이브",
+      "rating": 8.7,
+      "year": 2013
+    },
+    {
+      "ranking": 167,
+      "chinese_title": "黑客帝国3：矩阵革命",
+      "foreign_title": "The Matrix Revolutions",
+      "rating": 8.8,
+      "year": 2003
+    },
+    {
+      "ranking": 168,
+      "chinese_title": "三块广告牌",
+      "foreign_title": "Three Billboards Outside Ebbing, Missouri",
+      "rating": 8.7,
+      "year": 2017
+    },
+    {
+      "ranking": 169,
+      "chinese_title": "电锯惊魂",
+      "foreign_title": "Saw",
+      "rating": 8.7,
+      "year": 2004
+    },
+    {
+      "ranking": 170,
+      "chinese_title": "小丑",
+      "foreign_title": "Joker",
+      "rating": 8.7,
+      "year": 2019
+    },
+    {
+      "ranking": 171,
+      "chinese_title": "谍影重重3",
+      "foreign_title": "The Bourne Ultimatum",
+      "rating": 8.9,
+      "year": 2007
+    },
+    {
+      "ranking": 172,
+      "chinese_title": "达拉斯买家俱乐部",
+      "foreign_title": "Dallas Buyers Club",
+      "rating": 8.8,
+      "year": 2013
+    },
+    {
+      "ranking": 173,
+      "chinese_title": "无间道2",
+      "foreign_title": "无间道前传 ",
+      "rating": 8.8,
+      "year": 2003
+    },
+    {
+      "ranking": 174,
+      "chinese_title": "疯狂原始人",
+      "foreign_title": "The Croods",
+      "rating": 8.7,
+      "year": 2013
+    },
+    {
+      "ranking": 175,
+      "chinese_title": "末路狂花",
+      "foreign_title": "Thelma & Louise",
+      "rating": 9.0,
+      "year": 1991
+    },
+    {
+      "ranking": 176,
+      "chinese_title": "高山下的花环",
+      "foreign_title": " Wreaths at the Foot of the Mountain",
+      "rating": 9.5,
+      "year": 1984
+    },
+    {
+      "ranking": 177,
+      "chinese_title": "绿里奇迹",
+      "foreign_title": "The Green Mile",
+      "rating": 8.9,
+      "year": 1999
+    },
+    {
+      "ranking": 178,
+      "chinese_title": "爱在午夜降临前",
+      "foreign_title": "Before Midnight",
+      "rating": 8.9,
+      "year": 2013
+    },
+    {
+      "ranking": 179,
+      "chinese_title": "海街日记",
+      "foreign_title": "海街diary",
+      "rating": 8.8,
+      "year": 2015
+    },
+    {
+      "ranking": 180,
+      "chinese_title": "疯狂的石头",
+      "foreign_title": "Crazy Stone",
+      "rating": 8.6,
+      "year": 2006
+    },
+    {
+      "ranking": 181,
+      "chinese_title": "风之谷",
+      "foreign_title": "風の谷のナウシカ",
+      "rating": 8.9,
+      "year": 1984
+    },
+    {
+      "ranking": 182,
+      "chinese_title": "上帝之城",
+      "foreign_title": "Cidade de Deus",
+      "rating": 9.0,
+      "year": 2002
+    },
+    {
+      "ranking": 183,
+      "chinese_title": "雨中曲",
+      "foreign_title": "Singin' in the Rain",
+      "rating": 9.1,
+      "year": 1952
+    },
+    {
+      "ranking": 184,
+      "chinese_title": "2001太空漫游",
+      "foreign_title": "2001: A Space Odyssey",
+      "rating": 8.9,
+      "year": 1968
+    },
+    {
+      "ranking": 185,
+      "chinese_title": "心迷宫",
+      "foreign_title": " The Coffin in the Mountain",
+      "rating": 8.7,
+      "year": 2014
+    },
+    {
+      "ranking": 186,
+      "chinese_title": "英雄本色",
+      "foreign_title": "A Better Tomorrow ",
+      "rating": 8.6,
+      "year": 1986
+    },
+    {
+      "ranking": 187,
+      "chinese_title": "机器人之梦",
+      "foreign_title": "Robot Dreams",
+      "rating": 9.1,
+      "year": 2023
+    },
+    {
+      "ranking": 188,
+      "chinese_title": "记忆碎片",
+      "foreign_title": "Memento",
+      "rating": 8.7,
+      "year": 2000
+    },
+    {
+      "ranking": 189,
+      "chinese_title": "纵横四海",
+      "foreign_title": "Once a Thief",
+      "rating": 8.8,
+      "year": 1991
+    },
+    {
+      "ranking": 190,
+      "chinese_title": "卢旺达饭店",
+      "foreign_title": "Hotel Rwanda",
+      "rating": 8.9,
+      "year": 2004
+    },
+    {
+      "ranking": 191,
+      "chinese_title": "无敌破坏王",
+      "foreign_title": "Wreck-It Ralph",
+      "rating": 8.7,
+      "year": 2012
+    },
+    {
+      "ranking": 192,
+      "chinese_title": "小偷家族",
+      "foreign_title": "Shoplifters ",
+      "rating": 8.7,
+      "year": 2018
+    },
+    {
+      "ranking": 193,
+      "chinese_title": "恐怖游轮",
+      "foreign_title": "Triangle",
+      "rating": 8.5,
+      "year": 2009
+    },
+    {
+      "ranking": 194,
+      "chinese_title": "冰川时代",
+      "foreign_title": "Ice Age",
+      "rating": 8.7,
+      "year": 2002
+    },
+    {
+      "ranking": 195,
+      "chinese_title": "牯岭街少年杀人事件",
+      "foreign_title": "A Brighter Summer Day",
+      "rating": 8.9,
+      "year": 1991
+    },
+    {
+      "ranking": 196,
+      "chinese_title": "东京教父",
+      "foreign_title": "東京ゴッドファーザーズ",
+      "rating": 9.0,
+      "year": 2003
+    },
+    {
+      "ranking": 197,
+      "chinese_title": "魔女宅急便",
+      "foreign_title": "魔女琪琪(台) ",
+      "rating": 8.7,
+      "year": 1989
+    },
+    {
+      "ranking": 198,
+      "chinese_title": "岁月神偷",
+      "foreign_title": "1969太空漫游 ",
+      "rating": 8.7,
+      "year": 2010
+    },
+    {
+      "ranking": 199,
+      "chinese_title": "芙蓉镇",
+      "foreign_title": "Hibiscus Town",
+      "rating": 9.3,
+      "year": 1987
+    },
+    {
+      "ranking": 200,
+      "chinese_title": "忠犬八公物语",
+      "foreign_title": "八千公物语 ",
+      "rating": 9.2,
+      "year": 1987
+    },
+    {
+      "ranking": 201,
+      "chinese_title": "荒蛮故事",
+      "foreign_title": "Relatos salvajes",
+      "rating": 8.7,
+      "year": 2014
+    },
+    {
+      "ranking": 202,
+      "chinese_title": "遗愿清单",
+      "foreign_title": "The Bucket List",
+      "rating": 8.7,
+      "year": 2007
+    },
+    {
+      "ranking": 203,
+      "chinese_title": "大佛普拉斯",
+      "foreign_title": "The Great Buddha+",
+      "rating": 8.7,
+      "year": 2017
+    },
+    {
+      "ranking": 204,
+      "chinese_title": "源代码",
+      "foreign_title": "Source Code",
+      "rating": 8.6,
+      "year": 2011
+    },
+    {
+      "ranking": 205,
+      "chinese_title": "疯狂的麦克斯4：狂暴之路",
+      "foreign_title": "Mad Max: Fury Road",
+      "rating": 8.7,
+      "year": 2015
+    },
+    {
+      "ranking": 206,
+      "chinese_title": "你看起来好像很好吃",
+      "foreign_title": "おまえうまそうだな",
+      "rating": 8.9,
+      "year": 2010
+    },
+    {
+      "ranking": 207,
+      "chinese_title": "贫民窟的百万富翁",
+      "foreign_title": "Slumdog Millionaire",
+      "rating": 8.6,
+      "year": 2008
+    },
+    {
+      "ranking": 208,
+      "chinese_title": "花束般的恋爱",
+      "foreign_title": "花束みたいな恋をした",
+      "rating": 8.6,
+      "year": 2021
+    },
+    {
+      "ranking": 209,
+      "chinese_title": "可可西里",
+      "foreign_title": "Kekexili: Mountain Patrol",
+      "rating": 8.9,
+      "year": 2004
+    },
+    {
+      "ranking": 210,
+      "chinese_title": "城市之光",
+      "foreign_title": "City Lights",
+      "rating": 9.3,
+      "year": 1931
+    },
+    {
+      "ranking": 211,
+      "chinese_title": "白日梦想家",
+      "foreign_title": "The Secret Life of Walter Mitty",
+      "rating": 8.6,
+      "year": 2013
+    },
+    {
+      "ranking": 212,
+      "chinese_title": "波西米亚狂想曲",
+      "foreign_title": "Bohemian Rhapsody",
+      "rating": 8.6,
+      "year": 2018
+    },
+    {
+      "ranking": 213,
+      "chinese_title": "东邪西毒",
+      "foreign_title": "Ashes of Time",
+      "rating": 8.6,
+      "year": 1994
+    },
+    {
+      "ranking": 214,
+      "chinese_title": "爆裂鼓手",
+      "foreign_title": "Whiplash",
+      "rating": 8.6,
+      "year": 2014
+    },
+    {
+      "ranking": 215,
+      "chinese_title": "青蛇",
+      "foreign_title": "Green Snake",
+      "rating": 8.6,
+      "year": 1993
+    },
+    {
+      "ranking": 216,
+      "chinese_title": "爱乐之城",
+      "foreign_title": "La La Land",
+      "rating": 8.4,
+      "year": 2016
+    },
+    {
+      "ranking": 217,
+      "chinese_title": "哈利·波特与死亡圣器(上)",
+      "foreign_title": "Harry Potter and the Deathly Hallows: Part 1",
+      "rating": 8.6,
+      "year": 2010
+    },
+    {
+      "ranking": 218,
+      "chinese_title": "无耻混蛋",
+      "foreign_title": "Inglourious Basterds",
+      "rating": 8.7,
+      "year": 2009
+    },
+    {
+      "ranking": 219,
+      "chinese_title": "终结者2：审判日",
+      "foreign_title": "Terminator 2: Judgment Day",
+      "rating": 8.8,
+      "year": 1991
+    },
+    {
+      "ranking": 220,
+      "chinese_title": "黑天鹅",
+      "foreign_title": "Black Swan",
+      "rating": 8.6,
+      "year": 2010
+    },
+    {
+      "ranking": 221,
+      "chinese_title": "大红灯笼高高挂",
+      "foreign_title": "Raise The Red Lantern ",
+      "rating": 8.8,
+      "year": 1991
+    },
+    {
+      "ranking": 222,
+      "chinese_title": "初恋这件小事",
+      "foreign_title": "สิ่งเล็กเล็กที่เรียกว่า...รัก",
+      "rating": 8.5,
+      "year": 2010
+    },
+    {
+      "ranking": 223,
+      "chinese_title": "新龙门客栈",
+      "foreign_title": "New Dragon Gate Inn",
+      "rating": 8.7,
+      "year": 1992
+    },
+    {
+      "ranking": 224,
+      "chinese_title": "人工智能",
+      "foreign_title": "A.I. Artificial Intelligence",
+      "rating": 8.7,
+      "year": 2001
+    },
+    {
+      "ranking": 225,
+      "chinese_title": "雨人",
+      "foreign_title": "Rain Man",
+      "rating": 8.7,
+      "year": 1988
+    },
+    {
+      "ranking": 226,
+      "chinese_title": "崖上的波妞",
+      "foreign_title": "崖の上のポニョ",
+      "rating": 8.6,
+      "year": 2008
+    },
+    {
+      "ranking": 227,
+      "chinese_title": "千钧一发",
+      "foreign_title": "Gattaca",
+      "rating": 8.8,
+      "year": 1997
+    },
+    {
+      "ranking": 228,
+      "chinese_title": "虎口脱险",
+      "foreign_title": "La grande vadrouille",
+      "rating": 8.9,
+      "year": 1966
+    },
+    {
+      "ranking": 229,
+      "chinese_title": "罗生门",
+      "foreign_title": "Rashomon",
+      "rating": 8.8,
+      "year": 1950
+    },
+    {
+      "ranking": 230,
+      "chinese_title": "真爱至上",
+      "foreign_title": "Love Actually",
+      "rating": 8.5,
+      "year": 2003
+    },
+    {
+      "ranking": 231,
+      "chinese_title": "哈利·波特与凤凰社",
+      "foreign_title": "Harry Potter and the Order of the Phoenix",
+      "rating": 8.6,
+      "year": 2007
+    },
+    {
+      "ranking": 232,
+      "chinese_title": "彗星来的那一夜",
+      "foreign_title": "Coherence",
+      "rating": 8.6,
+      "year": 2013
+    },
+    {
+      "ranking": 233,
+      "chinese_title": "恋恋笔记本",
+      "foreign_title": "The Notebook",
+      "rating": 8.5,
+      "year": 2004
+    },
+    {
+      "ranking": 234,
+      "chinese_title": "海边的曼彻斯特",
+      "foreign_title": "Manchester by the Sea",
+      "rating": 8.6,
+      "year": 2016
+    },
+    {
+      "ranking": 235,
+      "chinese_title": "火星救援",
+      "foreign_title": "The Martian",
+      "rating": 8.5,
+      "year": 2015
+    },
+    {
+      "ranking": 236,
+      "chinese_title": "黑客帝国2：重装上阵",
+      "foreign_title": "The Matrix Reloaded",
+      "rating": 8.7,
+      "year": 2003
+    },
+    {
+      "ranking": 237,
+      "chinese_title": "步履不停",
+      "foreign_title": "歩いても 歩いても",
+      "rating": 8.8,
+      "year": 2008
+    },
+    {
+      "ranking": 238,
+      "chinese_title": "奇迹男孩",
+      "foreign_title": "Wonder",
+      "rating": 8.6,
+      "year": 2017
+    },
+    {
+      "ranking": 239,
+      "chinese_title": "千年女优",
+      "foreign_title": "Millennium Actress",
+      "rating": 8.8,
+      "year": 2001
+    },
+    {
+      "ranking": 240,
+      "chinese_title": "战争之王",
+      "foreign_title": "Lord of War",
+      "rating": 8.7,
+      "year": 2005
+    },
+    {
+      "ranking": 241,
+      "chinese_title": "萤火虫之墓",
+      "foreign_title": "再见萤火虫(港) ",
+      "rating": 8.7,
+      "year": 1988
+    },
+    {
+      "ranking": 242,
+      "chinese_title": "谍影重重2",
+      "foreign_title": "The Bourne Supremacy",
+      "rating": 8.7,
+      "year": 2004
+    },
+    {
+      "ranking": 243,
+      "chinese_title": "冰雪奇缘",
+      "foreign_title": "Frozen",
+      "rating": 8.5,
+      "year": 2013
+    },
+    {
+      "ranking": 244,
+      "chinese_title": "蜘蛛侠：平行宇宙",
+      "foreign_title": "Spider-Man: Into the Spider-Verse",
+      "rating": 8.6,
+      "year": 2018
+    },
+    {
+      "ranking": 245,
+      "chinese_title": "攻壳机动队",
+      "foreign_title": "Ghost in the Shell",
+      "rating": 9.0,
+      "year": 1995
+    },
+    {
+      "ranking": 246,
+      "chinese_title": "血钻",
+      "foreign_title": "Blood Diamond",
+      "rating": 8.7,
+      "year": 2006
+    },
+    {
+      "ranking": 247,
+      "chinese_title": "魂断蓝桥",
+      "foreign_title": "Waterloo Bridge",
+      "rating": 8.8,
+      "year": 1940
+    },
+    {
+      "ranking": 248,
+      "chinese_title": "隐藏人物",
+      "foreign_title": "Hidden Figures",
+      "rating": 8.9,
+      "year": 2016
+    },
+    {
+      "ranking": 249,
+      "chinese_title": "房间",
+      "foreign_title": "Room",
+      "rating": 8.7,
+      "year": 2015
+    },
+    {
+      "ranking": 250,
+      "chinese_title": "小姐",
+      "foreign_title": "아가씨",
+      "rating": 8.5,
+      "year": 2016
+    }
+  ]
+}
