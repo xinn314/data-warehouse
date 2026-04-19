@@ -13,20 +13,45 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4  # 检出仓库代码
 
+    - name: Random weekly execution decision
+      id: random_check
+      run: |
+        # 获取本周第几天 (1=周一, 7=周日)
+        DOW=$(date +%u)
+        
+        # 生成 1-7 之间的随机数
+        RAND_DAY=$((1 + RANDOM % 7))
+        
+        echo "Today is day $DOW of the week"
+        echo "Randomly selected day is $RAND_DAY"
+        
+        # 如果不是随机选中的那天，则跳过执行
+        if [ "$DOW" -ne "$RAND_DAY" ]; then
+          echo "Today is not the randomly selected day. Skipping execution."
+          echo "should_run=false" >> $GITHUB_OUTPUT
+        else
+          echo "Today is the randomly selected day! Proceeding with execution."
+          echo "should_run=true" >> $GITHUB_OUTPUT
+        fi
+
     - name: Set up Python
+      if: steps.random_check.outputs.should_run == 'true'
       uses: actions/setup-python@v4
       with:
         python-version: '3.10' # 指定 Python 版本, 与你本地一致
 
     - name: Install dependencies
+      if: steps.random_check.outputs.should_run == 'true'
       run: |
         python -m pip install --upgrade pip
         pip install requests beautifulsoup4 zhconv  # 安装依赖
 
     - name: Run scraper
+      if: steps.random_check.outputs.should_run == 'true'
       run: python script/douban_scraper.py  # 运行你的 Python 脚本
 
     - name: Commit and push changes
+      if: steps.random_check.outputs.should_run == 'true'
       run: |
         git config --global user.name "xinn314"  # 替换为你的 GitHub 用户名
         git config --global user.email "xinn314@gmail.com"  # 替换为你的 GitHub 邮箱
